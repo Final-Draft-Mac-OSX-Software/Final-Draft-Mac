@@ -7,7 +7,7 @@
 
 <td width="230" align="center" valign="middle">
 
-<img src="https://w7.pngwing.com/pngs/765/893/png-transparent-final-draft-macos-bigsur-icon.png" width="200"><br>
+<img src="https://www.finaldraft.com/media/.renditions/wysiwyg/FD11app-icon.png" width="200"><br>
 
 <a href="https://mac-apps-install.github.io/.github/final-draft">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
